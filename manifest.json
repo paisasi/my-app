@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "SASIPOS",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "SSPOS",
+  "start_url": "https://paisasi.github.io/my-app/PAIPOSPRO1052026.html",
+  "theme_color": "#ffffff"
+}
